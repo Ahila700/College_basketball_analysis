@@ -1,1 +1,64 @@
 # College_basketball_analysis
+
+## Project Overview
+---
+The NCAA Tournament, March Madness, so many peoples favorite time of the year, basketball, passion, heart, upsets, all of it is on display to the fullest for 3-4 weeks every year (except 2020 sadly). I am not much of a college basketball enthusiast in general, I have always enjoyed the NBA more, but I cant help but get pulled into March Madness every single year. Never has something been more aptly named because thats what it is, madness. And anyone who has ever made a bracket knows this. Since the field opened to 64 teams noone has ever even gotten close to having a perfect bracket. The closest ever was 44 straight correct predictions. The chances of a perfect bracket are 1 in 9.2 quintillion, a little better if you are someone who watches college basketball of course. But my goal is not to get a perfect bracket by any means but instead just to try an get a better idea of what stats correlate to teams doing well or doing poorly during the tournament.
+
+The idea of this project is just to try and analyze data on previous NCAA tournaments to see if I can find any similarities or data that can help provide insight on the current NCAA tournament. This is just a fun little side project that I hope I can use in the future to help with my March Madness Brackets.
+
+## Data
+---
+The data I used is from a kaggle dataset, College Basketball Dataset by Andrew Sundberg. 
+
+### Variables
+---
+Variables
+RK (Only in cbb20): The ranking of the team at the end of the regular season according to barttorvik
+
+TEAM: The Division I college basketball school
+
+CONF: The Athletic Conference in which the school participates in (A10 = Atlantic 10, ACC = Atlantic Coast Conference, AE = America East, Amer = American, ASun = ASUN, B10 = Big Ten, B12 = Big 12, BE = Big East, BSky = Big Sky, BSth = Big South, BW = Big West, CAA = Colonial Athletic Association, CUSA = Conference USA, Horz = Horizon League, Ivy = Ivy League, MAAC = Metro Atlantic Athletic Conference, MAC = Mid-American Conference, MEAC = Mid-Eastern Athletic Conference, MVC = Missouri Valley Conference, MWC = Mountain West, NEC = Northeast Conference, OVC = Ohio Valley Conference, P12 = Pac-12, Pat = Patriot League, SB = Sun Belt, SC = Southern Conference, SEC = South Eastern Conference, Slnd = Southland Conference, Sum = Summit League, SWAC = Southwestern Athletic Conference, WAC = Western Athletic Conference, WCC = West Coast Conference)
+
+G: Number of games played
+
+W: Number of games won
+
+ADJOE: Adjusted Offensive Efficiency (An estimate of the offensive efficiency (points scored per 100 possessions) a team would have against the average Division I defense)
+
+ADJDE: Adjusted Defensive Efficiency (An estimate of the defensive efficiency (points allowed per 100 possessions) a team would have against the average Division I offense)
+
+BARTHAG: Power Rating (Chance of beating an average Division I team)
+
+EFG_O: Effective Field Goal Percentage Shot
+
+EFG_D: Effective Field Goal Percentage Allowed
+
+TOR: Turnover Percentage Allowed (Turnover Rate)
+
+TORD: Turnover Percentage Committed (Steal Rate)
+
+ORB: Offensive Rebound Rate
+
+DRB: Offensive Rebound Rate Allowed
+
+FTR : Free Throw Rate (How often the given team shoots Free Throws)
+
+FTRD: Free Throw Rate Allowed
+
+2P_O: Two-Point Shooting Percentage
+
+2P_D: Two-Point Shooting Percentage Allowed
+
+3P_O: Three-Point Shooting Percentage
+
+3P_D: Three-Point Shooting Percentage Allowed
+
+ADJ_T: Adjusted Tempo (An estimate of the tempo (possessions per 40 minutes) a team would have against the team that wants to play at an average Division I tempo)
+
+WAB: Wins Above Bubble (The bubble refers to the cut off between making the NCAA March Madness Tournament and not making it)
+
+POSTSEASON: Round where the given team was eliminated or where their season ended (R68 = First Four, R64 = Round of 64, R32 = Round of 32, S16 = Sweet Sixteen, E8 = Elite Eight, F4 = Final Four, 2ND = Runner-up, Champion = Winner of the NCAA March Madness Tournament for that given year)
+
+SEED: Seed in the NCAA March Madness Tournament
+
+YEAR: Season
