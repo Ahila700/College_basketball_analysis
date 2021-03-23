@@ -10,6 +10,12 @@ The idea of this project is just to try and analyze data on previous NCAA tourna
 ---
 The data I used is from a kaggle dataset, College Basketball Dataset by Andrew Sundberg. 
 
+## Notebook Data
+---
+- Gathering Specific Data: Basic overview of the general data obtained from the kaggle dataset. Just a look at the data there as well as some removal of very unnecessary data
+- Data_Cleaning: Cleaning up data further, this time focusing on 3 sets of data (the cbb_21 with the 2021 season data, the cbb general with all the teams from 2013-2019 that made the tournament, and a new cbb_avg that i made with all the data from the 2013-2019 season averaged by post season finish). And using those 3 to make sure all the columns had the same name, and they all had the same statistics available
+- Similarity_Matrix: Used to run multiple Matrices to compare the 2021 teams to past teams and general team performance by their postseason finish.
+
 ### Variables
 ---
 Variables
