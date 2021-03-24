@@ -73,6 +73,6 @@ YEAR: Season
 ---
 ### Medium Article
 
-- https://antoniohila.medium.com/march-madness-analysis-pt-1-5ce72fb9f0df
-- https://antoniohila.medium.com/march-madness-analysis-part-2-57adcff3d0c4
+- Part 1: https://antoniohila.medium.com/march-madness-analysis-pt-1-5ce72fb9f0df
+- Part 2: https://antoniohila.medium.com/march-madness-analysis-part-2-57adcff3d0c4
 
