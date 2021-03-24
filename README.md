@@ -16,7 +16,7 @@ The data I used is from a kaggle dataset, College Basketball Dataset by Andrew S
 - Data_Cleaning: Cleaning up data further, this time focusing on 3 sets of data (the cbb_21 with the 2021 season data, the cbb general with all the teams from 2013-2019 that made the tournament, and a new cbb_avg that i made with all the data from the 2013-2019 season averaged by post season finish). And using those 3 to make sure all the columns had the same name, and they all had the same statistics available
 - Similarity_Matrix: Used to run multiple Matrices to compare the 2021 teams to past teams and general team performance by their postseason finish. This is used to then generate CSV files with data on the similarity between the teams to be visualized later.
 - CSV Files: All stored in a separate folder to keep the overall look clean
-- Visualizations: All visuals created from the data using Tableau to provide the visualizations with a cleaner Look
+- Visualizations: All visuals created from the data using Tableau to provide the visualizations with a cleaner Look. Also added the tableau workbook for people to be able to go in and look at more specific things as well
 
 ### Variables
 ---
