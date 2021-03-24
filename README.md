@@ -70,3 +70,9 @@ POSTSEASON: Round where the given team was eliminated or where their season ende
 SEED: Seed in the NCAA March Madness Tournament
 
 YEAR: Season
+---
+### Medium Article
+
+- https://antoniohila.medium.com/march-madness-analysis-pt-1-5ce72fb9f0df
+<br>
+- https://antoniohila.medium.com/march-madness-analysis-part-2-57adcff3d0c4
