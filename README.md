@@ -6,7 +6,7 @@ The NCAA Tournament, March Madness, so many peoples favorite time of the year, b
 
 The idea of this project is just to try and analyze data on previous NCAA tournaments to see if I can find any similarities or data that can help provide insight on the current NCAA tournament. This is just a fun little side project that I hope I can use in the future to help with my March Madness Brackets.
 
-The first analysis method was to take a look at the statistical cases for all these teams by comparing them to teams from 2013-2019 who have made the tournament.
+The first analysis method was to take a look at the statistical cases for all these teams by comparing them to teams from 2013-2019 who have made the tournament. This included comparing the current teams individually to all other teams as well as comparing them to the average stat of each postseason finish for each team.
 
 ## Data
 ---
