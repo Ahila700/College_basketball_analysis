@@ -5,8 +5,10 @@
 The NCAA Tournament, March Madness, so many peoples favorite time of the year, basketball, passion, heart, upsets, all of it is on display to the fullest for 3-4 weeks every year (except 2020 sadly). I am not much of a college basketball enthusiast in general, I have always enjoyed the NBA more, but I cant help but get pulled into March Madness every single year. Never has something been more aptly named because thats what it is, madness. And anyone who has ever made a bracket knows this. Since the field opened to 64 teams noone has ever even gotten close to having a perfect bracket. The closest ever was 44 straight correct predictions. The chances of a perfect bracket are 1 in 9.2 quintillion, a little better if you are someone who watches college basketball of course. But my goal is not to get a perfect bracket by any means but instead just to try an get a better idea of what stats correlate to teams doing well or doing poorly during the tournament.
 
 The idea of this project is just to try and analyze data on previous NCAA tournaments to see if I can find any similarities or data that can help provide insight on the current NCAA tournament. This is just a fun little side project that I hope I can use in the future to help with my March Madness Brackets.
-
+<br>
 The first analysis method was to take a look at the statistical cases for all these teams by comparing them to teams from 2013-2019 who have made the tournament. This included comparing the current teams individually to all other teams as well as comparing them to the average stat of each postseason finish for each team.
+<br>
+The next step for me is to make a model that could accurately (as best as possible at least) predict how well each team in the unknown set of data (this season) will perform in the NCAA Tournament.
 
 ## Data
 ---
