@@ -34,12 +34,16 @@ The data I used is from a kaggle dataset, College Basketball Dataset by Andrew S
 <br>
 <br>
 
-- CSV Files: All stored in a separate folder to keep the overall look clean
-- Visualizations: All visuals created from the data using Tableau to provide the visualizations with a cleaner Look. Also added the tableau workbook for people to be able to go in and look at more specific things as well
+- **CSV Files:** <br>
+    - All stored in a separate folder to keep the overall look clean
+- **Visualizations:** <br>
+    - All visuals created from the data using Tableau to provide the visualizations with a cleaner Look. <br>
+    - Also added the tableau workbook for people to be able to go in and look at more specific things as well
 
 ### Variables
 ---
 Variables
+<br>
 RK (Only in cbb20): The ranking of the team at the end of the regular season according to barttorvik
 
 TEAM: The Division I college basketball school
