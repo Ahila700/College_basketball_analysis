@@ -42,7 +42,6 @@ The data I used is from a kaggle dataset, College Basketball Dataset by Andrew S
 
 ### Variables
 ---
-Variables
 <br>
 RK (Only in cbb20): The ranking of the team at the end of the regular season according to barttorvik
 
