@@ -18,8 +18,12 @@ The data I used is from a kaggle dataset, College Basketball Dataset by Andrew S
 
 ## Notebook Data
 ---
-- Gathering Specific Data: Basic overview of the general data obtained from the kaggle dataset. Just a look at the data there as well as some removal of very unnecessary data
-- Data_Cleaning: Cleaning up data further, this time focusing on 3 sets of data (the cbb_21 with the 2021 season data, the cbb general with all the teams from 2013-2019 that made the tournament, and a new cbb_avg that i made with all the data from the 2013-2019 season averaged by post season finish). And using those 3 to make sure all the columns had the same name, and they all had the same statistics available
+- Gathering Specific Data: <br>
+      - Basic overview of the general data obtained from the kaggle dataset.<br>
+      - Just a look at the data there as well as some removal of very unnecessary data.
+- Data_Cleaning: <br>
+    - Cleaning up data further, this time focusing on 3 sets of data (the cbb_21 with the 2021 season data, the cbb general with all the teams from 2013-2019 that made the tournament, and a new cbb_avg that i made with all the data from the 2013-2019 season averaged by post season finish). <br>
+    - Using those 3 to make sure all the columns had the same name, and they all had the same statistics available
 - Similarity_Matrix: Used to run multiple Matrices to compare the 2021 teams to past teams and general team performance by their postseason finish. This is used to then generate CSV files with data on the similarity between the teams to be visualized later.
 - Modeling: Generated a base model using xgboost model to get an idea of how well the model works. Will need to do better to take into account the large disparity on the amount of teams who lose in the first round and make the final. This will come later, for now I just wanted to focus on making a base model.
 <br>
