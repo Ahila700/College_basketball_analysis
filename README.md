@@ -32,7 +32,9 @@ ___
     - This is used to then generate CSV files with data on the similarity between the teams to be visualized later.
 - **Modeling:** <br>
     - Generated a base model using xgboost model to get an idea of how well the model works. <br>
-    - Will need to do better to take into account the large disparity on the amount of teams who lose in the first round and make the final. <br>
+    - Will need to do better to take into account the large disparity on the amount of teams who lose in the first round and make the final.
+    - Used the base model to gather predictions for the current NCAA Tournament
+<br>
     - This will come later, for now I just wanted to focus on making a base model.
 <br>
 <br>
