@@ -12,12 +12,15 @@ The first analysis method was to take a look at the statistical cases for all th
 <br>
 The next step for me is to make a model that could accurately (as best as possible at least) predict how well each team in the unknown set of data (this season) will perform in the NCAA Tournament.
 ___
+
 ## Data <br>
 <br>
 The data I used is from a kaggle dataset, College Basketball Dataset by Andrew Sundberg. 
 ___
+
 ## Notebook Data <br>
 <br>
+
 - **Gathering Specific Data:** <br>
     - Basic overview of the general data obtained from the kaggle dataset.<br>
     - Just a look at the data there as well as some removal of very unnecessary data.
@@ -33,6 +36,7 @@ ___
     - This will come later, for now I just wanted to focus on making a base model.
 <br>
 <br>
+
 - **SQL Files:** <br>
     - Put all sql database files into a folder to keep the overall cleaner look
 - **CSV Files:** <br>
@@ -41,6 +45,7 @@ ___
     - All visuals created from the data using Tableau to provide the visualizations with a cleaner Look. <br>
     - Also added the tableau workbook for people to be able to go in and look at more specific things as well
 ___
+
 ### Variables <br>
 <br>
 RK (Only in cbb20): The ranking of the team at the end of the regular season according to barttorvik
