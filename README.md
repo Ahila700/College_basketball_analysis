@@ -33,7 +33,8 @@ ___
     - This will come later, for now I just wanted to focus on making a base model.
 <br>
 <br>
-
+- **SQL Files:** <br>
+    - Put all sql database files into a folder to keep the overall cleaner look
 - **CSV Files:** <br>
     - All stored in a separate folder to keep the overall look clean
 - **Visualizations:** <br>
