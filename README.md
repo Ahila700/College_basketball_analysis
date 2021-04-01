@@ -101,4 +101,5 @@ ___
 
 - Part 1: https://antoniohila.medium.com/march-madness-analysis-pt-1-5ce72fb9f0df
 - Part 2: https://antoniohila.medium.com/march-madness-analysis-part-2-57adcff3d0c4
+- Part 3: https://antoniohila.medium.com/march-madness-analysis-part-3-798645b1ee38
 
