@@ -35,7 +35,6 @@ ___
     - Will need to do better to take into account the large disparity on the amount of teams who lose in the first round and make the final.
     - Used the base model to gather predictions for the current NCAA Tournament
 <br>
-    - This will come later, for now I just wanted to focus on making a base model.
 <br>
 <br>
 
