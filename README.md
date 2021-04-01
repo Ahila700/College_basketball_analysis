@@ -15,8 +15,8 @@ ___
 
 ## Data <br>
 <br>
-The data I used is from a kaggle dataset, College Basketball Dataset by Andrew Sundberg. 
-___
+The data I used is from a kaggle dataset, College Basketball Dataset by Andrew Sundberg. <br>
+<br>
 
 ## Notebook Data <br>
 <br>
