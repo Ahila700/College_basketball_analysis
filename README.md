@@ -14,7 +14,9 @@ The second method of analysis was to generate a predictive model. Using the data
 <br>
 <br>
 The next step is now to take that model and the features I am currently using and refine them. Whether it be limiting the features in the model to only the most valuable using feature importance. Or tuning the hyper parameters of different models to find the one that gives the absolute best overall prediction. 
-
+<br>
+<br>
+Finally after these steps the last goal will be to gather the data on the current NCAA tournament results now that the tournament has been completed and see how the final model did by comparison. 
 ___
 
 ## Data <br>
