@@ -10,7 +10,7 @@ The idea of this project is just to try and analyze data on previous NCAA tourna
 The first analysis method was to take a look at the statistical cases for all these teams by comparing them to teams from 2013-2019 who have made the tournament. This included comparing the current teams individually to all other teams as well as comparing them to the average stat of each postseason finish for each team.
 <br>
 <br>
-The next step for me is to make a model that could accurately (as best as possible at least) predict how well each team in the unknown set of data (this season) will perform in the NCAA Tournament.
+The second method of analysis was to generate a predictive model. Using the data from the years 2013-2019 as a training set, I created an XGBoost model as it gave me the best class balance needed for the prediction. In this prediction the model showed Gonzaga as the favorite to win the championship.
 ___
 
 ## Data <br>
