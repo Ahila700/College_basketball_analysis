@@ -1,4 +1,4 @@
-# College_basketball_analysis
+# College basketball analysis
 ___
 ## Project Overview <br>
 <br>
