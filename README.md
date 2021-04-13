@@ -10,10 +10,12 @@ The idea of this project is just to try and analyze data on previous NCAA tourna
 The first analysis method was to take a look at the statistical cases for all these teams by comparing them to teams from 2013-2019 who have made the tournament. This included comparing the current teams individually to all other teams as well as comparing them to the average stat of each postseason finish for each team.
 <br>
 <br>
-The second method of analysis was to generate a predictive model. Using the data from the years 2013-2019 as the training set, I generated an XGBoost model. The reason for this is the biggest problem I forsaw was the lack of a class balance. In this prediction the model showed Gonzaga as the favorite to win the championship.
+The second method of analysis was to generate a predictive model. Using the data from the years 2013-2019 as the training set, I generated an XGBoost model. The reason for this is the biggest problem I forsaw was the lack of a class balance. Final 4 teams and higher would have much less data to train on than anything below that. So to try and handle that I used the XGBoost model as it does a good job of handling that class impbalance. In this prediction the model showed Gonzaga as the favorite to win the championship.
 <br>
 <br>
-The next step is now to take that model and the features I am currently using and refine them. Whether it be limiting the features in the model to only the most valuable using feature importance. Or tuning the hyper parameters of different models to find the one that gives the absolute best overall prediction. 
+The next step is now to take that model and the features I am currently using and refine them. Whether it be limiting the features in the model to only the most valuable using feature importance. Or tuning the hyper parameters of different models to find the one that gives the absolute best overall prediction. <br>
+<br>
+Other steps to work on would be to gather more data before 2013 to see if extra data will help the overall quality of the model.
 <br>
 <br>
 Finally after these steps the last goal will be to gather the data on the current NCAA tournament results now that the tournament has been completed and see how the final model did by comparison. 
